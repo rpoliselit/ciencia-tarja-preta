@@ -17,7 +17,7 @@ A física é a mais básica das ciência, sendo a base para as demais (engenhari
 - Litecoin (LTC): LesPNmLwZAARqGuZ9HqPQnR6YXyXRV8YTh
 - Dash (DASH): XmvdpUWKiNt98koo5LMmPdd27Y1LE4hN8B
 - Monero (XMR): 45eFnwxRWHaBECiMM18UeJJE443RqKTqJ4f9VXGbom1jJtmDwVjzikALysmzHtT62y3VWThfvug5fEktwGGJ1u2KSZUNJk2
-- Decred (DCR): DsiT8HNkoBEBGALffBq2AhLiV5y33ro97bA
+- Decred (DCR): DsWrvibjbh8x8RWdH3CSnsEmD52mi6WxvR6
 - Nano (NANO): xrb_1k1k917bfdjsutynnxtjydysp57z6sqzh3kiytsksm4km4cizbfnqgogzutw
 - RIPPLE (XRP): rEpBpkLN369wupnmPTvX5AVbnnkY7WQGrn
 - Binance Coin (BNC): 0xe9df22864c59470f5ad1b6176f2ac5d6bce3dfaa
