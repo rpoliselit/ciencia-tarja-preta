@@ -36,6 +36,17 @@ A física é a mais básica das ciência, sendo a base para as demais (engenhari
 7. Base
 8. Mudança de base
 9. Produto escalar de vetores
+10. Orientação de V3
+11. Produto vetorial
+12. Produto misto
+13. Sistema de coordenadas
+14. Equação de reta
+15. Equação de plano
+16. Interseção de duas retas
+17. Interseção de reta e plano
+18. Interseção de dois planos
+19. Equação de reta na forma planar
+20. Posição relativa...
 
 [Video aulas](https://www.youtube.com/playlist?list=PLcWxbYgMH8x_e61RzeNISIiDYwYhDbNrx)
 
