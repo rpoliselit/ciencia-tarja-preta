@@ -2,8 +2,5 @@ title: Ciência Tarja Preta
 logo: /assets/img/logo.png
 description: Projeto de video aulas de física e matemática no YouTube.
 show_downloads: true
-zip_url: https://www.youtube.com/c/Ci%C3%AAnciaTarjaPreta/featured
-tal_url: https://www.instagram.com/rpoliselit/
-repository_url: https://github.com/rpoliselit/ciencia-tarja-preta
 google_analytics:
 theme: jekyll-theme-minimal
