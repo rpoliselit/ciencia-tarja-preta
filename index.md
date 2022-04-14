@@ -1,13 +1,22 @@
-## Quer ajudar com este projeto?
+# Quer ajudar com este projeto?
 
-PayPal:
+PayPal: rafael.fisica.unesp@gmail.com
 
-PicPay:
+PicPay: https://picpay.me/cienciatarjapreta
 
-PIX:
+PIX: rafael.fisica.unesp@gmail.com
 
-Crypto:
+BTC: bc1qvedltttsr8y048rnq3eqztwqhqjjkgyx6eeqmq
 
+DASH: XmvdpUWKiNt98koo5LMmPdd27Y1LE4hN8B
+
+LTC: LesPNmLwZAARqGuZ9HqPQnR6YXyXRV8YTh
+
+DOGE: DPkWdNKenzhEnhCbgdQ58tptgdXBsWZUCY
+
+NANO: xrb_1k1k917bfdjsutynnxtjydysp57z6sqzh3kiytsksm4km4cizbfnqgogzutw
+
+XRP: rEpBpkLN369wupnmPTvX5AVbnnkY7WQGrn
 
 <!-- You can use the [editor on GitHub](https://github.com/rpoliselit/ciencia-tarja-preta/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
