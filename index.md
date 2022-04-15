@@ -1,6 +1,6 @@
 # Quer ajudar com este projeto?
 
-[<img src="https://www.paypal.com/pt_BR/i/scr/pixel.gif">](https://www.paypal.com/donate/?hosted_button_id=2Q5JQ4BMVAHXG)
+[<img src="https://www.paypalobjects.com/pt_BR/BR/i/btn/btn_donateCC_LG.gif">](https://www.paypal.com/donate/?hosted_button_id=2Q5JQ4BMVAHXG)
 
 [<img src="https://logodownload.org/wp-content/uploads/2018/05/picpay-logo-1-599x297.png">](https://picpay.me/cienciatarjapreta)
 
