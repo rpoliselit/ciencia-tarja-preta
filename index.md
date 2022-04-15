@@ -1,10 +1,10 @@
 # Quer ajudar com este projeto?
 
-PayPal: rafael.fisica.unesp@gmail.com
+[<img src="https://www.paypal.com/pt_BR/i/scr/pixel.gif">](https://www.paypal.com/donate/?hosted_button_id=2Q5JQ4BMVAHXG)
 
-PicPay: https://picpay.me/cienciatarjapreta
+[<img src="https://logodownload.org/wp-content/uploads/2018/05/picpay-logo-1-599x297.png">](https://picpay.me/cienciatarjapreta)
 
-PIX: rafael.fisica.unesp@gmail.com
+[<img src="https://psfonttk.com/wp-content/uploads/2021/08/logo-pix-png.png">](https://nubank.com.br/pagar/3drm8/i56Bcls8xE)
 
 BTC: bc1qvedltttsr8y048rnq3eqztwqhqjjkgyx6eeqmq
 
